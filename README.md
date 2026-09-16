@@ -1,2 +1,5 @@
-# day27_hands_on
-day27 hands-on exercise
+## New Feature
+This section describes an upcoming feature. Key capabilities:
+- Improves performance
+- Adds configurability
+- Enhances user experience
