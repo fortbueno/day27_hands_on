@@ -1,0 +1,8 @@
+{
+  "features": {
+    "newFeature": {
+      "enabled": false,
+      "description": "Toggles the new feature added in feature/new-feature"
+    }
+  }
+}
